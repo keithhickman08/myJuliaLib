@@ -1,4 +1,4 @@
-module MyLib
+module myJuliaLib
 
 using CSV
 using MLDataUtils
